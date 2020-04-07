@@ -10,14 +10,6 @@ logs/
 .vscode
 .yarnclean
 
-# Directories
-_book/
-coverage/
-esm/
-lib/
-node_modules/
-tests/lib/
-tests/packages/
 
 # Custom
 *.min.js
@@ -36,3 +28,4 @@ tsconfig.json
 tsconfig.eslint.json
 tsconfig.options.json
 *.tsbuildinfo
+node_modules
