@@ -283,9 +283,7 @@ export const BANNED_TAG_LIST = [
   'html',
   'link',
   'meta',
-  'noscript',
   'object',
-  'script',
   'style',
   'title',
 ];
